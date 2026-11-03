@@ -45,7 +45,7 @@ Each row is a sibling org: what you hand them, what they hand you, and the role 
 
 ## Your ladder
 
-- **Before this role:** [Senior Agentic AI Engineer](https://github.com/ai-engineering-curriculum/senior-agentic-ai-engineer-learning)
+- **Before this role:** [AI Engineering Manager](https://github.com/ai-engineering-curriculum/ai-engineering-manager-learning)
 - **After this role:** this is the top of this ladder. Growth from here usually means moving across to a sibling org's senior roles.
 
 ## Scenario: One model upgrade, five orgs
